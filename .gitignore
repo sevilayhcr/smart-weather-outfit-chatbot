@@ -1,0 +1,30 @@
+# 🔒 Gizli ortam değişkenleri
+.env
+.secrets.toml
+
+# 🐍 Python derleme dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🧱 Sanal ortam klasörleri
+venv/
+.env/
+.venv/
+
+# 💻 IDE dosyaları
+.vscode/
+.idea/
+
+# 🪣 Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# ☁️ Streamlit özel dosyaları
+.streamlit/
+
+# 🧾 Log dosyaları
+*.log
+
+# 📊 Geçici veri dosyaları (isteğe bağlı)
+data/*.csv
