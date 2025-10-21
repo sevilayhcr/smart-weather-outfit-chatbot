@@ -27,4 +27,4 @@ Thumbs.db
 *.log
 
 # 📊 Geçici veri dosyaları (isteğe bağlı)
-data/*.csv
+#data/*.csv
