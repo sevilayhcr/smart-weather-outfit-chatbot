@@ -71,5 +71,7 @@ Arayüz sistem çalıştırma
   Local URL: http://localhost:8510
   Network URL: http://10.27.30.187:8510
 
-WEB LİNK(kendi openweather Apı ve open Apı anahtarınızı sisteme yüklemeyi unutmayın!)
+Live Demo(kendi openweather Apı ve open Apı anahtarınızı sisteme yüklemeyi unutmayın!)
+https://smart-weather-outfit-chatbot-whxtn8uofgsfqvahp3phn9.streamlit.app/
+
 
